@@ -1,2 +1,4 @@
-# uti-email
-Universal Technical Institute Responsive Email
+uti_email
+=========
+
+UTI Email Template
